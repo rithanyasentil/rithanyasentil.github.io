@@ -1,4 +1,3 @@
-# rithanya.github.io
 <html>
 <head>
 <title>rithanya</title>
